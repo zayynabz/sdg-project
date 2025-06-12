@@ -1,2 +1,44 @@
-# sdg-project
-Part of the team developing a website for renting electric scooters between students inside “ENSA FES” as part of our final year project of environmental studies and objectives of sustainable development.
+# BLA CARBON® – Student Eco-Scooter Sharing at ENSA Fès
+
+[Live Demo](https://blacarbon.store)
+
+## Introduction
+
+BLA CARBON® addresses two key challenges faced by ENSA Fès students: sustainable transportation and affordable mobility.  
+This peer-to-peer platform allows students to rent out their electric scooters to fellow students, promoting both environmental sustainability and economic opportunity.
+
+---
+
+## Key Features
+
+- **Hourly rental system** for maximum flexibility
+- **Student-to-student marketplace**
+- **Carbon emission reduction tracking**
+- **Secure payment system**
+- **Convenient campus-wide accessibility**
+- **Extra income opportunity** for scooter owners
+
+---
+
+## Benefits
+
+### Environmental Impact
+- Reduced carbon footprint
+- Decreased campus traffic
+- Promotion of clean energy transportation
+
+### Student Benefits
+- Affordable transportation option
+- Income generation for scooter owners
+- Time-saving alternative to public transport
+- Enhanced campus mobility
+
+### Community Impact
+- Creating a sharing economy within ENSA
+- Promoting sustainable lifestyle choices
+- Building student entrepreneurship
+
+---
+
+
+For questions or feedback, contact me on linkedin or gmail.
