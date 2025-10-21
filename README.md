@@ -1,6 +1,9 @@
 # BLA CARBON® – Student Eco-Scooter Sharing at ENSA Fès
 
 [Live Demo](https://blacarbon.store)
+<img width="1280" height="584" alt="image" src="https://github.com/user-attachments/assets/0fdefa66-5c15-496a-8e5f-d0226db8e31d" />
+<img width="987" height="760" alt="image" src="https://github.com/user-attachments/assets/aeb6f779-6ed2-4e20-a128-ed3bb0dbd454" />
+
 
 ## Introduction
 
